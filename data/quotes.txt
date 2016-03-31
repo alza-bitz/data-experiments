@@ -1,0 +1,20 @@
+A great lathe operator commands several times the wage of an average lathe operator, but a great writer of software code is worth 10,000 times the price of an average software writer.
+Luck is the residue of design.
+Linux is free if your time is worthless (unknown)
+First, solve the problem. Then, write the code.
+Everybody pities the weak; jealousy you have to earn.
+Complexity is a human issue, and good design is about overcoming human limitations, not technical ones. (Pieter Hintjens, What is wrong with AMQP (and how to fix it))
+Whatever is begun in anger ends in shame.
+In the End, we will remember not the words of our enemies, but the silence of our friends.
+Happiness is not a goal; it is a by-product.
+The only rock I know that stays steady, the only institution I know that works is the family.
+If you like working with things that are either broken or incomplete, become a computer programmer. (ALRubinger on Twitter)
+No one is so old as those who have outlived enthusiasm.
+Modularity absolutely helps with contributions, is even essential for more complex systems — underrated aspect (@njbartlett @kohsukekawa on Twitter)
+It's not the size of the dog in the fight, it's the size of the fight in the dog.
+Failure is simply the opportunity to begin again, this time more intelligently.
+Programming is not about typing.. it's about thinking
+Should array indices start at 0 or 1?  My compromise of 0.5 was rejected without, I thought, proper consideration.
+Forgive your enemies, but never forget their names.
+Plato was a bore.
+Pretty much all the honest truth telling in the world is done by children.
