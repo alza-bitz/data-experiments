@@ -1,6 +1,6 @@
 (defproject data-experiments-clj "0.1.0-SNAPSHOT"
-  :description "Example word freq programs, non-distributed and distributed"
-  :url "http://example.com/FIXME"
+  :description "Various data processing experiments with Apache Spark"
+  :url "https://github.com/alzadude/data-experiments"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :profiles {:dev {:aot :all}
