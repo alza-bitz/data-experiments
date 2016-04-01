@@ -6,6 +6,10 @@ The included source code is provided to support examples #1, #2 and #3 in the fo
 
 [Apache Spark with Clojure](https://goo.gl/koZ90v)
 
+## Dependencies
+
+- Leiningen (for Clojure REPL)
+
 ## Usage
 
 Just start a Clojure REPL and execute the code in `repl_example_1.clj`, `repl_example_2.clj` and `repl_example_3.clj`
